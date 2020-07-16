@@ -1,0 +1,20 @@
+{
+  "name": "addingpolynominals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "author": "Cezary Orzeł",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.19",
+    "mocha": "^8.0.1",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^3.9.6"
+  }
+}
